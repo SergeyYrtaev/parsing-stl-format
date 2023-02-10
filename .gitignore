@@ -1,0 +1,4 @@
+.vs/
+build/
+src/parsing_stl_models
+src/TestModel.stl
